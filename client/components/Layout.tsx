@@ -44,13 +44,12 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       {/* Navigation */}
       <nav className="bg-white text-gray-800 shadow-lg sticky top-0 z-50 text-lg">
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
-          <div className="flex items-center bg-white rounded-lg px-4">
-            <div className="flex flex-col">
-              <span className="text-black font-bold text-sm">PixelFix24</span>
-              <span className="text-black font-bold text-xs">
-                Brühlstraße 18, 76689 Karlsdorf-Neuthard
-              </span>
-            </div>
+          <div className="flex items-center">
+            <img
+              src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2Ff066f557f7834950b0aefafba8666c26?format=webp&width=800"
+              alt="PixelFix24 Logo"
+              className="h-16 w-auto"
+            />
           </div>
 
           {/* Desktop Menu */}
