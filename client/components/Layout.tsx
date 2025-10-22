@@ -275,7 +275,9 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     className="transition"
                     title="TikTok"
                   >
-                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png" alt="TikTok" className="h-6 w-6 filter brightness-0 invert opacity-60 hover:opacity-100" />
+                    <svg className="h-6 w-6 fill-gray-400 hover:fill-white transition" viewBox="0 0 24 24">
+                      <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.74v16.38a2.86 2.86 0 1 1-5.64-2.85c1.48-.66 2.77-1.11 2.77-1.11V7.07A6.87 6.87 0 0 0 5 7.02c-3.79 0-6.875 3.075-6.875 6.875S1.125 20.75 5 20.75a6.765 6.765 0 0 0 6.83-6.83V9.73a8.98 8.98 0 0 0 5.76 2.09z"/>
+                    </svg>
                   </a>
                 </div>
               </div>
