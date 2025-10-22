@@ -83,13 +83,13 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           {/* Desktop Buttons */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="tel:+4915732312985"
+              href="tel:+017679817190"
               className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg transition"
             >
-              <i className="fas fa-phone mr-2"></i> 01573 2312985
+              <i className="fas fa-phone mr-2"></i> 017679817190
             </a>
             <a
-              href="https://wa.me/4915732312985"
+              href="https://wa.me/017679817190"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-lg transition"
@@ -136,13 +136,13 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             </button>
             <div className="mt-4 space-y-2">
               <a
-                href="tel:+4915732312985"
+                href="tel:+017679817190"
                 className="block bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg text-center transition"
               >
-                <i className="fas fa-phone mr-2"></i> 01573 2312985
+                <i className="fas fa-phone mr-2"></i> 017679817190
               </a>
               <a
-                href="https://wa.me/4915732312985"
+                href="https://wa.me/017679817190"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-lg text-center transition"
