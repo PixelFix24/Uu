@@ -162,7 +162,11 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between">
             <div className="mb-6 md:mb-0">
-              <div className="text-white font-bold mb-4">PixelFix24</div>
+              <img
+                src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F637a59f63ebc4cec8e5d21742c2b493c?format=webp&width=800"
+                alt="PixelFix24 Logo"
+                className="h-16 w-auto"
+              />
             </div>
 
             <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
