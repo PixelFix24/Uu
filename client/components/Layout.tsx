@@ -275,7 +275,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     className="transition"
                     title="TikTok"
                   >
-                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png" alt="TikTok" className="h-6 w-6 opacity-60 hover:opacity-100 transition" />
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png" alt="TikTok" className="h-6 w-6" />
                   </a>
                 </div>
               </div>
