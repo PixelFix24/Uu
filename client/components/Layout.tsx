@@ -243,29 +243,33 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 <div className="flex space-x-4">
                   <a
                     href="#"
-                    className="text-gray-400 hover:text-white text-xl transition"
+                    className="transition"
+                    title="Facebook"
                   >
-                    <i className="fab fa-facebook-f"></i>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="Facebook" className="h-6 w-6 filter brightness-0 invert opacity-60 hover:opacity-100" />
                   </a>
                   <a
                     href="#"
-                    className="text-gray-400 hover:text-white text-xl transition"
+                    className="transition"
+                    title="Instagram"
                   >
-                    <i className="fab fa-instagram"></i>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" className="h-6 w-6 filter brightness-0 invert opacity-60 hover:opacity-100" />
                   </a>
                   <a
                     href="#"
-                    className="text-gray-400 hover:text-white text-xl transition"
+                    className="transition"
+                    title="Twitter"
                   >
-                    <i className="fab fa-twitter"></i>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="Twitter" className="h-6 w-6 filter brightness-0 invert opacity-60 hover:opacity-100" />
                   </a>
                   <a
                     href="https://www.tiktok.com/@pixelfix24_"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-gray-400 hover:text-white text-xl transition"
+                    className="transition"
+                    title="TikTok"
                   >
-                    <i className="fab fa-tiktok"></i>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png" alt="TikTok" className="h-6 w-6 filter brightness-0 invert opacity-60 hover:opacity-100" />
                   </a>
                 </div>
               </div>
