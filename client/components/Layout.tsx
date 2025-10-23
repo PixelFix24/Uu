@@ -38,8 +38,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         buchbar unter "Reparatur buchen"
       </div>
 
-      {/* Gradient Divider */}
-      <div className="h-1 bg-gradient-to-r from-blue-600 to-purple-600"></div>
 
       {/* Navigation */}
       <nav className="bg-white text-gray-800 shadow-lg sticky top-0 z-50 text-lg">
