@@ -275,7 +275,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     className="transition"
                     title="TikTok"
                   >
-                    <i className="fa-brands fa-tiktok"></i>
+                    <i className="fa-brands fa-tiktok text-2xl text-gray-400 hover:text-white transition"></i>
                   </a>
                 </div>
               </div>
