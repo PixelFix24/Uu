@@ -400,7 +400,7 @@ Nachricht: ${formData.message}
           <div className="mb-16">
             <div className="text-center mb-8">
               <a
-                href="https://www.google.com/search?q=PixelFix24"
+                href="https://www.google.com/search?sca_esv=bf302389b4c6e1ea&authuser=1&sxsrf=AE3TifOYi1nUYXOi3GTIE9Fz7oUx2R_Pdw:1761209559272&q=pixelfix24+karlsdorf-neuthard+reviews"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center bg-white border border-gray-200 rounded-full px-6 py-3 shadow-sm hover:shadow-md transition"
@@ -421,7 +421,7 @@ Nachricht: ${formData.message}
 
             <div className="text-center mt-10">
               <a
-                href="https://www.google.com/search?q=PixelFix24"
+                href="https://www.google.com/search?sca_esv=bf302389b4c6e1ea&authuser=1&sxsrf=AE3TifOYi1nUYXOi3GTIE9Fz7oUx2R_Pdw:1761209559272&q=pixelfix24+karlsdorf-neuthard+reviews"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition duration-300 transform hover:scale-105"
