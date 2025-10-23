@@ -48,7 +48,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <img
               src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F637a59f63ebc4cec8e5d21742c2b493c?format=webp&width=800"
               alt="PixelFix24 Logo"
-              className="h-48 w-auto"
+              className="h-20 w-auto"
             />
           </div>
 
