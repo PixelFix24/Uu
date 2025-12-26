@@ -214,8 +214,8 @@ Nachricht: ${formData.message}
           </div>
           <div className="md:w-1/2 flex justify-center fade-in">
             <img
-              src="https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-              alt="Techniker repariert Smartphone"
+              src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F353701e7f1f448f1849542a2da6fee48?format=webp&width=800"
+              alt="Elektronik-Reparatur Werkstatt mit Werkzeugen und Komponenten"
               className="rounded-lg shadow-2xl max-w-full h-auto max-h-96 object-cover"
             />
           </div>
