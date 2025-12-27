@@ -214,7 +214,7 @@ Nachricht: ${formData.message}
           </div>
           <div className="md:w-1/2 flex justify-center fade-in">
             <img
-              src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F353701e7f1f448f1849542a2da6fee48?format=webp&width=800"
+              src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2Ff0b81a4b006a4ca38fcdde6d94b1dd19?format=webp&width=800"
               alt="Elektronik-Reparatur Werkstatt mit Werkzeugen und Komponenten"
               className="rounded-lg shadow-2xl max-w-full h-auto max-h-96 object-cover"
             />
