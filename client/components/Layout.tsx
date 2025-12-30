@@ -270,12 +270,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     href="https://www.tiktok.com/@pixelfix24_"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="transition"
+                    className="text-gray-400 hover:text-white transition"
                     title="TikTok"
                   >
-                    <svg className="h-6 w-6 fill-gray-400 hover:fill-white transition" viewBox="0 0 48 48">
-                      <path d="M34.4 3H13.6C7.5 3 3 7.5 3 13.6v20.8C3 40.5 7.5 45 13.6 45h20.8c6.1 0 10.6-4.5 10.6-10.6V13.6C45 7.5 40.5 3 34.4 3zm-2.5 27.6c-2 1.5-4.5 2.4-7.3 2.4-6.9 0-12.5-5.6-12.5-12.5S17.7 8.1 24.6 8.1c2.8 0 5.4.9 7.4 2.5v4.8c-1.2-1-3-1.7-4.8-1.7-4.1 0-7.4 3.3-7.4 7.4s3.3 7.4 7.4 7.4c1.8 0 3.6-.6 4.8-1.7v4.8h-.1z"/>
-                    </svg>
+                    <i className="fa-brands fa-tiktok text-lg"></i>
                   </a>
                 </div>
               </div>
