@@ -253,11 +253,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     className="transition"
                     title="Instagram"
                   >
-                    <svg className="h-6 w-6 fill-gray-400 hover:fill-white transition" viewBox="0 0 24 24">
-                      <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="currentColor" strokeWidth="2"/>
-                      <path d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10z" fill="none" stroke="currentColor" strokeWidth="2"/>
-                      <circle cx="17.5" cy="6.5" r="1.5" fill="currentColor"/>
-                    </svg>
+                    <img src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2Fd5e2213e98224cac9dbfb84e8b4b4c3d?format=webp&width=800" alt="Instagram" className="h-6 w-6" />
                   </a>
                   <a
                     href="#"
