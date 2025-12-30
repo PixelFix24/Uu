@@ -264,7 +264,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     className="transition"
                     title="Twitter"
                   >
-                    <img src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2Fcc7870fdbae04841b150293f8c9dc5bf?format=webp&width=800" alt="Twitter" className="h-6 w-6 fill-gray-400 hover:fill-white transition" />
+                    <img src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F9c148a268caa46629a20c0ab4dc01f1c?format=webp&width=800" alt="Twitter" className="h-6 w-6" />
                   </a>
                   <a
                     href="https://www.tiktok.com/@pixelfix24_"
