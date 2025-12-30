@@ -29,6 +29,7 @@ const services = [
     description:
       "Wir ersetzen beschädigte Displays mit hochwertigen Originalersatzteilen oder Premium-Alternativen.",
     badge: "Schnellreparatur",
+    badgeIcon: Smartphone,
     icon: 0,
   },
   {
