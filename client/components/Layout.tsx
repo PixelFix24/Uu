@@ -261,7 +261,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     <img src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F9c148a268caa46629a20c0ab4dc01f1c?format=webp&width=800" alt="Twitter" className="h-6 w-6" />
                   </a>
                   <a
-                    href="https://www.tiktok.com/@pixelfix24_"
+                    href="https://www.tiktok.com/@pixelfix24"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="transition"
