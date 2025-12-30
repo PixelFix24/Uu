@@ -133,11 +133,13 @@ function ServiceCard({
   title,
   description,
   badge,
+  badgeIcon: BadgeIcon,
   icon,
 }: {
   title: string;
   description: string;
   badge: string;
+  badgeIcon?: typeof Smartphone;
   icon: number;
 }) {
   const { Icon } = serviceIcons[icon];
@@ -151,7 +153,7 @@ function ServiceCard({
       <p className="text-gray-600 mb-4">{description}</p>
       <div className="mt-4">
         <span className="inline-block bg-blue-100 text-blue-800 text-sm font-medium px-3 py-1 rounded-full">
-          {badge}
+          {BadgeIcon ? <BadgeIcon size={16} className="inline" /> : badge}
         </span>
       </div>
     </div>
