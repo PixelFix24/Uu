@@ -264,10 +264,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     href="https://www.tiktok.com/@pixelfix24_"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-gray-400 hover:text-white transition"
+                    className="transition"
                     title="TikTok"
                   >
-                    <i className="fa-brands fa-tiktok text-lg"></i>
+                    <img src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F155c39d906ed4f9c86c6c24883497dc2?format=webp&width=800" alt="TikTok" className="h-6 w-6" />
                   </a>
                 </div>
               </div>
