@@ -352,7 +352,7 @@ Nachricht: ${formData.message}
               <p className="text-lg mb-4">
                 Wir sind ein junges Unternehmen mit langjähriger Erfahrung in
                 der Smartphone- und Tablet-Reparatur. Unser Anspruch ist es,
-                höchste Qualität zu fairen Preisen zu bieten – transparent,
+                höchste Qualität zu fairen Preisen zu bieten, transparent,
                 schnell und zuverlässig.
               </p>
               <p className="text-lg mb-6 leading-relaxed">
