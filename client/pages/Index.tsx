@@ -38,6 +38,7 @@ const services = [
       "Ihr Akku hält nicht mehr lange? Wir tauschen ihn gegen einen neuen, leistungsstarken Akku aus und verlängern so die Lebensdauer Ihres Geräts.",
     badge: "60 Min.",
     icon: 1,
+    descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F2ce5e09c498a4e0ea6e971eff2a41902?format=webp&width=800",
   },
   {
     title: "Kamera-Reparaturen",
