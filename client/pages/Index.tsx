@@ -53,7 +53,7 @@ const services = [
       "Probleme mit dem Lautsprecher oder Mikrofon? Wir diagnostizieren das Problem und führen die notwendigen Reparaturen durch.",
     badge: "Sofort verfügbar",
     icon: 3,
-    descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F7af6125c2a3a45e788ded2b6e003e5b9?format=webp&width=800",
+    descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F459007dffc134b928667e052312e2145?format=webp&width=800",
   },
   {
     title: "Software-Probleme",
