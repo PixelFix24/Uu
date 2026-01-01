@@ -31,6 +31,7 @@ const services = [
     badge: "Schnellreparatur",
     badgeIcon: Smartphone,
     icon: 0,
+    descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F7b772ef8b9d749749356db7b3b176b0f?format=webp&width=800",
   },
   {
     title: "Akkutausch",
