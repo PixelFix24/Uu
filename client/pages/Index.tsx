@@ -355,6 +355,12 @@ Nachricht: ${formData.message}
                 höchste Qualität zu fairen Preisen zu bieten – transparent,
                 schnell und zuverlässig.
               </p>
+              <p className="text-lg mb-6 leading-relaxed">
+                Ob Displaybruch, Akkutausch, Wasserschaden oder Software- und
+                Hardwareprobleme: Wir reparieren Geräte aller gängigen Marken
+                meist noch am selben Tag und mit hochwertigen Ersatzteilen. Auf
+                jede Reparatur erhalten Sie 12 Monate Garantie.
+              </p>
               <div className="space-y-3">
                 <div className="flex items-center">
                   <i className="fas fa-check-circle text-blue-600 mr-2"></i>
