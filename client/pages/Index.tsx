@@ -248,6 +248,7 @@ Nachricht: ${formData.message}
                   description={service.description}
                   badge={service.badge}
                   icon={service.icon}
+                  descriptionImage={service.descriptionImage}
                 />
               </div>
             ))}
