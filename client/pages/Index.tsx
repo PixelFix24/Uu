@@ -46,6 +46,7 @@ const services = [
       "Unscharfe Fotos oder eine defekte Kamera? Wir reparieren oder tauschen die Kamera Ihres Smartphones aus, damit Sie wieder perfekte Aufnahmen machen können.",
     badge: "Ab 15€",
     icon: 2,
+    descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2Fad3c0ca52df64846bbda38511cd86ffa?format=webp&width=800",
   },
   {
     title: "Lautsprecher-Reparaturen",
