@@ -350,16 +350,10 @@ Nachricht: ${formData.message}
             <div className="md:w-1/2 mb-10 md:mb-0 md:pr-10 fade-in">
               <h2 className="text-3xl font-bold mb-6">Über uns</h2>
               <p className="text-lg mb-4">
-                Unser Handy Reparatur Laden bietet Ihnen einen Rundum-Service
-                für alle Arten von Mobilgeräten. Egal, ob es sich um ein
-                zerbrochenes Display, eine schwache Batterie, Wasserschäden,
-                Softwareprobleme oder Hardwaredefekte handelt – wir finden die
-                richtige Lösung.
-              </p>
-              <p className="text-lg mb-4">
-                Unser Team besteht aus zertifizierten Technikern mit
-                jahrelanger Erfahrung in der Reparatur von Smartphones und
-                Tablets aller gängigen Marken.
+                Wir sind ein junges Unternehmen mit langjähriger Erfahrung in
+                der Smartphone- und Tablet-Reparatur. Unser Anspruch ist es,
+                höchste Qualität zu fairen Preisen zu bieten – transparent,
+                schnell und zuverlässig.
               </p>
               <div className="space-y-3">
                 <div className="flex items-center">
