@@ -63,7 +63,7 @@ const services = [
       "Ihr Gerät friert ein oder startet nicht mehr? Wir beheben Software-Probleme, führen Updates durch und stellen Daten bei Bedarf wieder her.",
     badge: "Ab 9€",
     icon: 4,
-    descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F2df869d009d64497a0a94bafbcb420bf?format=webp&width=800",
+    descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F7c3c443aafcf42798c6ac32915106839?format=webp&width=800",
   },
   {
     title: "Datenrettung",
