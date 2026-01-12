@@ -69,7 +69,7 @@ const services = [
     title: "Datenrettung",
     description:
       "Wichtige Daten nach einem Defekt verloren? Unsere Experten helfen bei der Datenrettung von beschädigten Geräten und sichern Ihre wertvollen Daten.",
-    badge: "96% Erfolgsrate",
+    badge: "Hohe Erfolgsrate",
     icon: 5,
     descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F3ed517fede2a4886a0e18459021289be?format=webp&width=800",
   },
