@@ -431,7 +431,7 @@ Nachricht: ${formData.message}
                   Unsere Google Bewertungen
                 </span>
                 <span className="ml-2 bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-semibold">
-                  5.0 ★ (4 Bewertungen)
+                  5.0 ★
                 </span>
               </a>
             </div>
