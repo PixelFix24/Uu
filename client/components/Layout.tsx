@@ -290,6 +290,15 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         </button>
       )}
 
+      {/* Phone Call Floating Button */}
+      <a
+        href="tel:+4917679817190"
+        className="fixed bottom-6 right-36 bg-blue-600 hover:bg-blue-700 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition z-40 hover:scale-110"
+        title="Rufen Sie uns an"
+      >
+        <Phone size={28} />
+      </a>
+
       {/* WhatsApp Floating Button */}
       <a
         href="https://wa.me/4917679817190"
