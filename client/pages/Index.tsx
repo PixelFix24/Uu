@@ -316,7 +316,7 @@ Nachricht: ${formData.message}
               </div>
               <div className="mt-4 text-center">
                 <span className="inline-block bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-semibold">
-                  ✅ Unterdurchschnittliche Preise – Top Qualität
+                  • Unterdurchschnittliche Preise – Top Qualität
                 </span>
               </div>
             </div>
@@ -338,7 +338,7 @@ Nachricht: ${formData.message}
             </div>
 
             <p className="text-lg mb-6">
-              💬{" "}
+              • {" "}
               <span className="font-semibold">
                 Frag einfach nach deinem Modell!
               </span>{" "}
