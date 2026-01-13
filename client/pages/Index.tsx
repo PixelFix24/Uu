@@ -61,7 +61,7 @@ const services = [
     title: "Software-Probleme",
     description:
       "Ihr Gerät friert ein oder startet nicht mehr? Wir beheben Software-Probleme, führen Updates durch und stellen Daten bei Bedarf wieder her.",
-    badge: "Ab 9€",
+    badge: "Sofort verfügbar",
     icon: 4,
     descriptionImage: "https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F7c3c443aafcf42798c6ac32915106839?format=webp&width=800",
   },
