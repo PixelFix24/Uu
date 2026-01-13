@@ -293,7 +293,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       {/* Phone Call Floating Button */}
       <a
         href="tel:+017679817190"
-        className="fixed bottom-6 right-36 bg-blue-600 hover:bg-blue-700 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition z-40 hover:scale-110"
+        className="fixed bottom-32 right-6 bg-blue-600 hover:bg-blue-700 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition z-40 hover:scale-110"
         title="Rufen Sie uns an"
       >
         <Phone size={28} />
@@ -304,7 +304,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         href="https://wa.me/4917679817190"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed bottom-6 right-20 bg-green-500 hover:bg-green-600 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition z-40 hover:scale-110"
+        className="fixed bottom-16 right-6 bg-green-500 hover:bg-green-600 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition z-40 hover:scale-110"
         title="Kontaktieren Sie uns auf WhatsApp"
       >
         <img src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2F7c8322687fed4ff8a1bc2b9a4c5349f7?format=webp&width=800" alt="WhatsApp" className="w-8 h-8" />
