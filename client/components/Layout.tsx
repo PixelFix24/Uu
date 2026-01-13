@@ -289,6 +289,17 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <i className="fas fa-arrow-up"></i>
         </button>
       )}
+
+      {/* WhatsApp Floating Button */}
+      <a
+        href="https://wa.me/4917679817190"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-6 right-20 bg-green-500 hover:bg-green-600 text-white w-14 h-14 rounded-full shadow-lg flex items-center justify-center transition z-40 hover:scale-110"
+        title="Kontaktieren Sie uns auf WhatsApp"
+      >
+        <MessageCircle size={28} />
+      </a>
     </div>
   );
 }
