@@ -609,11 +609,14 @@ Nachricht: ${formData.message}
                   <div>
                     <h4 className="font-bold">Öffnungszeiten</h4>
                     <p>
-                      Montag - Freitag: 9:00 - 18:00 Uhr
+                      Montag - Freitag: 09:00 - 21:00 Uhr
                       <br />
-                      Samstag: 10:00 - 15:00 Uhr
+                      Samstag: 09:00 - 20:00 Uhr
                       <br />
                       Sonntag: Geschlossen
+                      <br />
+                      <br />
+                      <span className="font-semibold">24/7 Terminvereinbarung online möglich</span>
                     </p>
                   </div>
                 </div>
