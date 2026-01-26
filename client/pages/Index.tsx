@@ -446,6 +446,10 @@ Nachricht: ${formData.message}
                 <i className="fab fa-google mr-2"></i> Jetzt bewerten auf Google
               </a>
             </div>
+
+            <div className="mt-16 flex justify-center">
+              <div className="elfsight-app-9e0f128d-a1da-4192-adc9-d33ee482d1ad" data-elfsight-app-lazy></div>
+            </div>
           </div>
         </div>
       </section>
