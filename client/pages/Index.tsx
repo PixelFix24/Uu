@@ -303,8 +303,8 @@ Nachricht: ${formData.message}
                 <div className="flex items-start">
                   <i className="fas fa-check-circle text-green-500 mt-1 mr-2"></i>
                   <span>
-                    Fehlerdiagnose <span className="font-bold">kostenlos</span>{" "}
-                    bei Reparatur
+                    Fehlerdiagnose <span className="font-bold">19€</span>{" "}
+                    (kostenlos bei Reparatur)
                   </span>
                 </div>
                 <div className="flex items-start">
