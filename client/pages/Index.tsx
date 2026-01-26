@@ -414,42 +414,8 @@ Nachricht: ${formData.message}
             Kundenbewertungen
           </h2>
 
-          <div className="mb-16">
-            <div className="text-center mb-8">
-              <a
-                href="https://g.page/r/CQbP-tgVl791EBk/review"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center bg-white border border-gray-200 rounded-full px-6 py-3 shadow-sm hover:shadow-md transition"
-              >
-                <img
-                  src="https://www.google.com/images/branding/product/1x/google_my_business_48dp.png"
-                  alt="Google Logo"
-                  className="h-6 mr-2"
-                />
-                <span className="font-medium text-gray-800">
-                  Unsere Google Bewertungen
-                </span>
-                <span className="ml-2 bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-semibold">
-                  5.0 ★
-                </span>
-              </a>
-            </div>
-
-            <div className="text-center mt-10">
-              <a
-                href="https://g.page/r/CQbP-tgVl791EBM/review"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition duration-300 transform hover:scale-105"
-              >
-                <i className="fab fa-google mr-2"></i> Jetzt bewerten auf Google
-              </a>
-            </div>
-
-            <div className="mt-16 flex justify-center">
-              <div className="elfsight-app-1538be47-a89b-457f-89d3-50c56e9c54ae" data-elfsight-app-lazy></div>
-            </div>
+          <div className="flex justify-center">
+            <div className="elfsight-app-1538be47-a89b-457f-89d3-50c56e9c54ae" data-elfsight-app-lazy></div>
           </div>
         </div>
       </section>
