@@ -594,7 +594,7 @@ Nachricht: ${formData.message}
                   <Phone size={24} className="mt-1 mr-3 text-blue-200" />
                   <div>
                     <h4 className="font-bold">Telefon</h4>
-                    <p>+49 157 32312985</p>
+                    <p>+49 176 79817190</p>
                   </div>
                 </div>
                 <div className="flex items-start">
