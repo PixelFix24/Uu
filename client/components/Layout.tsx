@@ -247,7 +247,9 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     <img src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2Fcbf7d0c5f7c24875ba5d7d076177c571?format=webp&width=800" alt="Facebook" className="h-6 w-6" />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.instagram.com/pixelfix24/"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="transition"
                     title="Instagram"
                   >
