@@ -240,7 +240,9 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 <h3 className="text-lg font-bold mb-4">Folgen Sie uns</h3>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.facebook.com/profile.php?id=61587033515419"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="transition"
                     title="Facebook"
                   >
