@@ -410,10 +410,6 @@ Nachricht: ${formData.message}
       {/* Reviews Section */}
       <section id="reviews" className="py-16 bg-white">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-12">
-            Kundenbewertungen
-          </h2>
-
           {/* Elfsight Google Reviews | Untitled Google Reviews */}
           <div className="flex justify-center">
             <div className="elfsight-app-89c5ad8e-e768-46db-8608-702caf9a00d8" data-elfsight-app-lazy></div>
