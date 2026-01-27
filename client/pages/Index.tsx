@@ -188,21 +188,26 @@ export default function Index() {
     message: "",
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    const subject = `Neue Reparaturanfrage von ${formData.name}`;
-    const body = `
-Name: ${formData.name}
-E-Mail: ${formData.email}
-Telefon: ${formData.phone || "Nicht angegeben"}
-Gerät: ${formData.device}
-Service: ${formData.service}
-Nachricht: ${formData.message}
-    `;
-    window.location.href = `mailto:PixelFix24@gmail.com?subject=${encodeURIComponent(
-      subject
-    )}&body=${encodeURIComponent(body)}`;
-    setFormData({ name: "", email: "", phone: "", device: "", service: "", message: "" });
+
+    try {
+      const response = await fetch("/api/repair-requests", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      });
+
+      if (response.ok) {
+        alert("Vielen Dank! Ihre Anfrage wurde erfolgreich eingereicht. Wir melden uns bald bei Ihnen!");
+        setFormData({ name: "", email: "", phone: "", device: "", service: "", message: "" });
+      } else {
+        alert("Fehler beim Senden der Anfrage. Bitte versuchen Sie es später erneut.");
+      }
+    } catch (err) {
+      console.error("Fehler:", err);
+      alert("Fehler beim Senden der Anfrage. Bitte versuchen Sie es später erneut.");
+    }
   };
 
   return (
