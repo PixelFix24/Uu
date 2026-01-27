@@ -416,7 +416,7 @@ Nachricht: ${formData.message}
 
           {/* Elfsight Google Reviews | Untitled Google Reviews */}
           <div className="flex justify-center">
-            <div className="elfsight-app-bfe7d3fe-87a7-49b2-9428-8569018db0d4" data-elfsight-app-lazy></div>
+            <div className="elfsight-app-89c5ad8e-e768-46db-8608-702caf9a00d8" data-elfsight-app-lazy></div>
           </div>
         </div>
       </section>
