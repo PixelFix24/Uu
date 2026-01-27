@@ -101,6 +101,11 @@ const faqItems = [
     answer:
       "Ja, wir reparieren nicht nur Smartphones, sondern auch Tablets und Smartwatches der gängigen Hersteller. Bitte kontaktieren Sie uns vorab, damit wir Ihnen ein genaues Angebot machen können.",
   },
+  {
+    question: "Verliere ich meine Daten während der Reparatur?",
+    answer:
+      "Bei der Reparatur gehen normalerweise keine Daten verloren, aber wir empfehlen trotzdem sicherheitshalber, die Daten vor der Reparatur zu sichern.",
+  },
 ];
 
 const brands = [
