@@ -94,7 +94,7 @@ const faqItems = [
   {
     question: "Kann ich einen Termin vereinbaren?",
     answer:
-      "Ja, Termine können Sie telefonisch, per E-Mail oder über unser Kontaktformular vereinbaren. Bei dringenden Reparaturen bieten wir auch einen Walk-in-Service an, bei dem wir Sie so schnell wie möglich bedienen.",
+      "Ja, Termine können Sie telefonisch, per E-Mail oder über unser Kontaktformular vereinbaren.",
   },
   {
     question: "Reparieren Sie auch Tablets und Smartwatches?",
