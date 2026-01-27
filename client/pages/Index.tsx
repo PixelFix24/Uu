@@ -84,7 +84,7 @@ const faqItems = [
   {
     question: "Kann ich mein Gerät zur Diagnose vorbeibringen?",
     answer:
-      "Ja, Sie können Ihr Gerät jederzeit während unserer Öffnungszeiten zur kostenlosen Diagnose vorbeibringen. Nach der Diagnose erhalten Sie ein unverbindliches Angebot und können dann entscheiden, ob Sie die Reparatur durchführen lassen möchten.",
+      "Ja, Sie können Ihr Gerät jederzeit während unserer Öffnungszeiten zur Diagnose vorbeibringen. Die Diagnose ist kostenlos, wenn Sie sich für eine Reparatur bei uns entscheiden. Nach der Diagnose erhalten Sie ein unverbindliches Angebot und können dann entscheiden, ob Sie die Reparatur durchführen lassen möchten.",
   },
   {
     question: "Gibt es eine Garantie auf die Reparaturen?",
