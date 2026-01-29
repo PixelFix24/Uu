@@ -353,8 +353,7 @@ export default function Index() {
                 Frag einfach nach deinem Modell!
               </span>{" "}
               Wir nennen dir den aktuellen Preis sofort – telefonisch, per
-              WhatsApp oder E-Mail. Oder komm einfach vorbei, wir beraten dich
-              kostenlos und unverbindlich.
+              WhatsApp oder E-Mail.
             </p>
 
             <a
