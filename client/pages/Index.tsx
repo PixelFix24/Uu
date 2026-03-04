@@ -242,7 +242,7 @@ export default function Index() {
             <img
               src="https://cdn.builder.io/api/v1/image/assets%2F8962820f2d6e48e38cf68b3d0df4ccdd%2Fe8213c0cb58b4eb3a7c43c2126771918?format=webp&width=800"
               alt="Elektronik-Reparatur Werkstatt mit Werkzeugen und Komponenten"
-              className="rounded-lg shadow-2xl max-w-full h-auto max-h-96 object-cover"
+              className="rounded-lg shadow-2xl max-w-full h-auto max-h-72 object-cover ml-4"
             />
           </div>
         </div>
